@@ -1,0 +1,42 @@
+00:11:17.461 [TestNG-tests-1] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Starting verifyPurchaseJourneyWithStandardUser_TC002 ***
+00:11:17.499 [TestNG-tests-2] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Starting verifyPurchaseJourneyWithStandardUser_TC002 ***
+00:11:48.393 [TestNG-tests-1] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Starting verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+00:11:48.401 [TestNG-tests-2] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Starting verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+06:11:44.394 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\SauceDemoAutomationProject\master.xml"
+06:11:52.669 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Starting verifyLoginWithLockedOutUser_TC001 ***
+06:11:53.257 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Ending verifyLoginWithLockedOutUser_TC001 ***
+06:11:55.674 [main] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Starting verifyPurchaseJourneyWithStandardUser_TC002 ***
+06:11:58.967 [main] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Ending verifyPurchaseJourneyWithStandardUser_TC002 ***
+06:12:01.387 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Starting verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+06:12:23.969 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Ending verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+15:33:26.993 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\SauceDemoAutomationProject\grouping.xml"
+15:33:27.520 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\SauceDemoAutomationProject\grouping.xml
+
+15:33:32.972 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Starting verifyLoginWithLockedOutUser_TC001 ***
+15:33:33.450 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Ending verifyLoginWithLockedOutUser_TC001 ***
+15:33:36.598 [main] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Starting verifyPurchaseJourneyWithStandardUser_TC002 ***
+15:33:39.402 [main] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Ending verifyPurchaseJourneyWithStandardUser_TC002 ***
+15:33:42.192 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Starting verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+15:34:04.085 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Ending verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+15:35:08.502 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\SauceDemoAutomationProject\master.xml"
+15:35:08.989 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\SauceDemoAutomationProject\master.xml
+
+15:35:11.912 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Starting verifyLoginWithLockedOutUser_TC001 ***
+15:35:12.412 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Ending verifyLoginWithLockedOutUser_TC001 ***
+15:35:14.868 [main] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Starting verifyPurchaseJourneyWithStandardUser_TC002 ***
+15:35:17.271 [main] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Ending verifyPurchaseJourneyWithStandardUser_TC002 ***
+15:35:20.244 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Starting verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+15:35:42.202 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Ending verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+15:37:17.687 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\SauceDemoAutomationProject\master.xml"
+15:37:18.162 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\SauceDemoAutomationProject\master.xml
+
+15:37:21.171 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Starting verifyLoginWithLockedOutUser_TC001 ***
+15:37:21.701 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Ending verifyLoginWithLockedOutUser_TC001 ***
+15:37:24.600 [main] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Starting verifyPurchaseJourneyWithStandardUser_TC002 ***
+15:37:26.994 [main] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Ending verifyPurchaseJourneyWithStandardUser_TC002 ***
+15:37:29.791 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Starting verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+15:37:51.724 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Ending verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+15:42:14.209 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\SauceDemoAutomationProject\master.xml"

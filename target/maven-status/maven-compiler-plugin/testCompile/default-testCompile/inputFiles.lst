@@ -1,0 +1,10 @@
+C:\eclipse-workspace\SauceDemoAutomationProject\src\test\java\pageObjects\BasePage.java
+C:\eclipse-workspace\SauceDemoAutomationProject\src\test\java\pageObjects\CartPage.java
+C:\eclipse-workspace\SauceDemoAutomationProject\src\test\java\pageObjects\CheckoutPage.java
+C:\eclipse-workspace\SauceDemoAutomationProject\src\test\java\pageObjects\LoginPage.java
+C:\eclipse-workspace\SauceDemoAutomationProject\src\test\java\pageObjects\ProductsPage.java
+C:\eclipse-workspace\SauceDemoAutomationProject\src\test\java\testBase\BaseClass.java
+C:\eclipse-workspace\SauceDemoAutomationProject\src\test\java\testCases\TC001_VerifyLoginWithLockedOutUser.java
+C:\eclipse-workspace\SauceDemoAutomationProject\src\test\java\testCases\TC002_VerifyPurchaseJourneyWithStandardUser.java
+C:\eclipse-workspace\SauceDemoAutomationProject\src\test\java\testCases\TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser.java
+C:\eclipse-workspace\SauceDemoAutomationProject\src\test\java\utilities\ExtentReportManager.java
