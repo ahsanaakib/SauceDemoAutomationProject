@@ -87,7 +87,7 @@ public class CheckoutPage extends BasePage {
 		return Double.parseDouble(displayedTax);
 	}
 	
-	public double getDisplayedTotal() {
+	public double getDisplayedTotalPriceAfterIncludingTax() {
 		String displayedTotal= summaryTotalLabel.getText().replace("Total: $", "");
 		return Double.parseDouble(displayedTotal);
 	}

@@ -72,18 +72,19 @@ public class TC002_VerifyPurchaseJourneyWithStandardUser extends BaseClass {
 			double displayedItemTotalPrice = coutp.getDisplayedItemTotalPrice();
 
 
-			Assert.assertEquals(sumOfItemPrices, displayedItemTotalPrice,
-					"The calculated total item price does not match the displayed Item total.");
+			Assert.assertEquals(displayedItemTotalPrice, sumOfItemPrices,
+					"Mismatch: Sum of item prices should be: "+sumOfItemPrices+" but found "+displayedItemTotalPrice);
 
+			
 			double taxValue= coutp.getDisplayedTax();	//Get Tax value from Checkout Page
 			
 			double expectedTotalPrice =sumOfItemPrices+taxValue;	// Calculate Sum of Total Item Price with Tax value
-			double displayedTotalPrice= coutp.getDisplayedTotal();	// Get displayed total price (include Tax)
+			double displayedTotalPrice= coutp.getDisplayedTotalPriceAfterIncludingTax();	// Get displayed total price (include Tax)
 			
 			
 			//Verify displayed total price with expected total Price (include tax)
 			Assert.assertEquals(displayedTotalPrice, expectedTotalPrice,
-					"Displayed Total Price does not match with expected Total Price.");
+					"Mismatch: Expected Total Price was "+expectedTotalPrice+ " but found "+ displayedTotalPrice);
 			
 			
 			coutp.clickFinish();	// Complete the purchase by clicking the 'Finish' button
