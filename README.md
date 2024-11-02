@@ -113,7 +113,7 @@ This script automates the Maven test execution. Ensure:
 
 1. **Open your project in your preferred IDE** (Eclipse, IntelliJ IDEA, etc.).
 2. Navigate to the `master.xml` or `grouping.xml` file in your project explorer.
-3. Right-click on the XML file and select **Run As** -> **Maven test**.
+3. Right-click on the XML file and select **Run As** -> **TestNG Suite**.
 4. The IDE will execute the tests defined in the selected XML file.
 
 ## 🛠️ Jenkins Integration
