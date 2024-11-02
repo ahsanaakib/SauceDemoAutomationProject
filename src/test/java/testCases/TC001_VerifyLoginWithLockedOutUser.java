@@ -29,7 +29,7 @@ public class TC001_VerifyLoginWithLockedOutUser extends BaseClass {
 
 			// Verify that the actual error message matches the expected message
 			Assert.assertEquals(actualErrorMsg, expectedErrorMsg,
-					"Error message mismatch: Expected '" + expectedErrorMsg + "' but got '" + actualErrorMsg + "'.");
+					"Error message mismatch.");
 
 		} catch (Exception e) {
 			

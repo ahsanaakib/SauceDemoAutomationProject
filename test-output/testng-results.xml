@@ -2,34 +2,34 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-31T22:10:24 BDT" name="Master Suite" finished-at="2024-10-31T22:11:11 BDT" duration-ms="46612">
+  <suite started-at="2024-11-02T16:46:27 BDT" name="Master Suite" finished-at="2024-11-02T16:47:07 BDT" duration-ms="39915">
     <groups>
       <group name="Master">
-        <method signature="TC001_VerifyLoginWithLockedOutUser.verifyLoginWithLockedOutUser_TC001()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@67c2e933]" name="verifyLoginWithLockedOutUser_TC001" class="testCases.TC001_VerifyLoginWithLockedOutUser"/>
-        <method signature="TC002_VerifyPurchaseJourneyWithStandardUser.verifyPurchaseJourneyWithStandardUser_TC002()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@2e8e8225]" name="verifyPurchaseJourneyWithStandardUser_TC002" class="testCases.TC002_VerifyPurchaseJourneyWithStandardUser"/>
-        <method signature="TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser.verifyPurchaseJourneyWithPerformanceGlitchUser_TC003()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@6ebf0f36]" name="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003" class="testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser"/>
+        <method signature="TC001_VerifyLoginWithLockedOutUser.verifyLoginWithLockedOutUser_TC001()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@285c08c8]" name="verifyLoginWithLockedOutUser_TC001" class="testCases.TC001_VerifyLoginWithLockedOutUser"/>
+        <method signature="TC002_VerifyPurchaseJourneyWithStandardUser.verifyPurchaseJourneyWithStandardUser_TC002()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@47605f2f]" name="verifyPurchaseJourneyWithStandardUser_TC002" class="testCases.TC002_VerifyPurchaseJourneyWithStandardUser"/>
+        <method signature="TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser.verifyPurchaseJourneyWithPerformanceGlitchUser_TC003()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@2ece4966]" name="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003" class="testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser"/>
       </group> <!-- Master -->
       <group name="Functional">
-        <method signature="TC001_VerifyLoginWithLockedOutUser.verifyLoginWithLockedOutUser_TC001()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@67c2e933]" name="verifyLoginWithLockedOutUser_TC001" class="testCases.TC001_VerifyLoginWithLockedOutUser"/>
-        <method signature="TC002_VerifyPurchaseJourneyWithStandardUser.verifyPurchaseJourneyWithStandardUser_TC002()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@2e8e8225]" name="verifyPurchaseJourneyWithStandardUser_TC002" class="testCases.TC002_VerifyPurchaseJourneyWithStandardUser"/>
-        <method signature="TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser.verifyPurchaseJourneyWithPerformanceGlitchUser_TC003()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@6ebf0f36]" name="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003" class="testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser"/>
+        <method signature="TC001_VerifyLoginWithLockedOutUser.verifyLoginWithLockedOutUser_TC001()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@285c08c8]" name="verifyLoginWithLockedOutUser_TC001" class="testCases.TC001_VerifyLoginWithLockedOutUser"/>
+        <method signature="TC002_VerifyPurchaseJourneyWithStandardUser.verifyPurchaseJourneyWithStandardUser_TC002()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@47605f2f]" name="verifyPurchaseJourneyWithStandardUser_TC002" class="testCases.TC002_VerifyPurchaseJourneyWithStandardUser"/>
+        <method signature="TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser.verifyPurchaseJourneyWithPerformanceGlitchUser_TC003()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@2ece4966]" name="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003" class="testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser"/>
       </group> <!-- Functional -->
       <group name="Sanity">
-        <method signature="TC001_VerifyLoginWithLockedOutUser.verifyLoginWithLockedOutUser_TC001()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@67c2e933]" name="verifyLoginWithLockedOutUser_TC001" class="testCases.TC001_VerifyLoginWithLockedOutUser"/>
+        <method signature="TC001_VerifyLoginWithLockedOutUser.verifyLoginWithLockedOutUser_TC001()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@285c08c8]" name="verifyLoginWithLockedOutUser_TC001" class="testCases.TC001_VerifyLoginWithLockedOutUser"/>
       </group> <!-- Sanity -->
       <group name="EndToEnd">
-        <method signature="TC002_VerifyPurchaseJourneyWithStandardUser.verifyPurchaseJourneyWithStandardUser_TC002()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@2e8e8225]" name="verifyPurchaseJourneyWithStandardUser_TC002" class="testCases.TC002_VerifyPurchaseJourneyWithStandardUser"/>
-        <method signature="TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser.verifyPurchaseJourneyWithPerformanceGlitchUser_TC003()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@6ebf0f36]" name="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003" class="testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser"/>
+        <method signature="TC002_VerifyPurchaseJourneyWithStandardUser.verifyPurchaseJourneyWithStandardUser_TC002()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@47605f2f]" name="verifyPurchaseJourneyWithStandardUser_TC002" class="testCases.TC002_VerifyPurchaseJourneyWithStandardUser"/>
+        <method signature="TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser.verifyPurchaseJourneyWithPerformanceGlitchUser_TC003()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@2ece4966]" name="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003" class="testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser"/>
       </group> <!-- EndToEnd -->
       <group name="Regression">
-        <method signature="TC001_VerifyLoginWithLockedOutUser.verifyLoginWithLockedOutUser_TC001()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@67c2e933]" name="verifyLoginWithLockedOutUser_TC001" class="testCases.TC001_VerifyLoginWithLockedOutUser"/>
-        <method signature="TC002_VerifyPurchaseJourneyWithStandardUser.verifyPurchaseJourneyWithStandardUser_TC002()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@2e8e8225]" name="verifyPurchaseJourneyWithStandardUser_TC002" class="testCases.TC002_VerifyPurchaseJourneyWithStandardUser"/>
-        <method signature="TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser.verifyPurchaseJourneyWithPerformanceGlitchUser_TC003()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@6ebf0f36]" name="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003" class="testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser"/>
+        <method signature="TC001_VerifyLoginWithLockedOutUser.verifyLoginWithLockedOutUser_TC001()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@285c08c8]" name="verifyLoginWithLockedOutUser_TC001" class="testCases.TC001_VerifyLoginWithLockedOutUser"/>
+        <method signature="TC002_VerifyPurchaseJourneyWithStandardUser.verifyPurchaseJourneyWithStandardUser_TC002()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@47605f2f]" name="verifyPurchaseJourneyWithStandardUser_TC002" class="testCases.TC002_VerifyPurchaseJourneyWithStandardUser"/>
+        <method signature="TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser.verifyPurchaseJourneyWithPerformanceGlitchUser_TC003()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@2ece4966]" name="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003" class="testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-10-31T22:10:24 BDT" name="Test" finished-at="2024-10-31T22:11:11 BDT" duration-ms="46612">
+    <test started-at="2024-11-02T16:46:27 BDT" name="Test" finished-at="2024-11-02T16:47:07 BDT" duration-ms="39915">
       <class name="testCases.TC002_VerifyPurchaseJourneyWithStandardUser">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@2e8e8225]" started-at="2024-10-31T22:10:36 BDT" name="setup" finished-at="2024-10-31T22:10:38 BDT" duration-ms="2214" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@47605f2f]" started-at="2024-11-02T16:46:31 BDT" name="setup" finished-at="2024-11-02T16:46:34 BDT" duration-ms="2759" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -45,17 +45,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyPurchaseJourneyWithStandardUser_TC002()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@2e8e8225]" started-at="2024-10-31T22:10:38 BDT" name="verifyPurchaseJourneyWithStandardUser_TC002" description="Verify end-to-end purchase journey with standard user." finished-at="2024-10-31T22:10:41 BDT" duration-ms="2894" status="PASS">
+        <test-method signature="verifyPurchaseJourneyWithStandardUser_TC002()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@47605f2f]" started-at="2024-11-02T16:46:34 BDT" name="verifyPurchaseJourneyWithStandardUser_TC002" description="Verify end-to-end purchase journey with standard user." finished-at="2024-11-02T16:46:37 BDT" duration-ms="3138" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyPurchaseJourneyWithStandardUser_TC002 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@2e8e8225]" started-at="2024-10-31T22:10:41 BDT" name="tearDown" finished-at="2024-10-31T22:10:41 BDT" duration-ms="203" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_VerifyPurchaseJourneyWithStandardUser@47605f2f]" started-at="2024-11-02T16:46:37 BDT" name="tearDown" finished-at="2024-11-02T16:46:37 BDT" duration-ms="166" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC002_VerifyPurchaseJourneyWithStandardUser -->
       <class name="testCases.TC001_VerifyLoginWithLockedOutUser">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@67c2e933]" started-at="2024-10-31T22:10:25 BDT" name="setup" finished-at="2024-10-31T22:10:35 BDT" duration-ms="10077" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@285c08c8]" started-at="2024-11-02T16:46:27 BDT" name="setup" finished-at="2024-11-02T16:46:30 BDT" duration-ms="3020" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -71,17 +71,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyLoginWithLockedOutUser_TC001()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@67c2e933]" started-at="2024-10-31T22:10:35 BDT" name="verifyLoginWithLockedOutUser_TC001" description="Verifies that a locked-out user sees the correct error message." finished-at="2024-10-31T22:10:35 BDT" duration-ms="477" status="PASS">
+        <test-method signature="verifyLoginWithLockedOutUser_TC001()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@285c08c8]" started-at="2024-11-02T16:46:30 BDT" name="verifyLoginWithLockedOutUser_TC001" description="Verifies that a locked-out user sees the correct error message." finished-at="2024-11-02T16:46:31 BDT" duration-ms="438" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithLockedOutUser_TC001 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@67c2e933]" started-at="2024-10-31T22:10:35 BDT" name="tearDown" finished-at="2024-10-31T22:10:36 BDT" duration-ms="256" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_VerifyLoginWithLockedOutUser@285c08c8]" started-at="2024-11-02T16:46:31 BDT" name="tearDown" finished-at="2024-11-02T16:46:31 BDT" duration-ms="159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC001_VerifyLoginWithLockedOutUser -->
       <class name="testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@6ebf0f36]" started-at="2024-10-31T22:10:41 BDT" name="setup" finished-at="2024-10-31T22:10:43 BDT" duration-ms="2512" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@2ece4966]" started-at="2024-11-02T16:46:37 BDT" name="setup" finished-at="2024-11-02T16:46:39 BDT" duration-ms="2292" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -97,11 +97,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@6ebf0f36]" started-at="2024-10-31T22:10:43 BDT" name="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003" description="Verify end-to-end purchase journey with Performance Glitch User." finished-at="2024-10-31T22:11:11 BDT" duration-ms="27360" status="PASS">
+        <test-method signature="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@2ece4966]" started-at="2024-11-02T16:46:39 BDT" name="verifyPurchaseJourneyWithPerformanceGlitchUser_TC003" description="Verify end-to-end purchase journey with Performance Glitch User." finished-at="2024-11-02T16:47:07 BDT" duration-ms="27411" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@6ebf0f36]" started-at="2024-10-31T22:11:11 BDT" name="tearDown" finished-at="2024-10-31T22:11:11 BDT" duration-ms="210" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser@2ece4966]" started-at="2024-11-02T16:47:07 BDT" name="tearDown" finished-at="2024-11-02T16:47:07 BDT" duration-ms="251" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

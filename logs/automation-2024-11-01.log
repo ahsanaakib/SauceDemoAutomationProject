@@ -1,0 +1,44 @@
+20:30:37.913 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Starting verifyLoginWithLockedOutUser_TC001 ***
+20:30:38.368 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Ending verifyLoginWithLockedOutUser_TC001 ***
+20:30:41.293 [main] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Starting verifyPurchaseJourneyWithStandardUser_TC002 ***
+20:30:47.017 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Starting verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+20:31:14.518 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Ending verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+20:43:32.013 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\SauceDemoAutomationProject\master.xml"
+20:43:32.422 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\SauceDemoAutomationProject\master.xml
+
+20:43:37.058 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Starting verifyLoginWithLockedOutUser_TC001 ***
+20:43:37.491 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Ending verifyLoginWithLockedOutUser_TC001 ***
+20:43:41.126 [main] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Starting verifyPurchaseJourneyWithStandardUser_TC002 ***
+20:43:48.206 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Starting verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+20:44:15.933 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Ending verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+21:43:35.660 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\SauceDemoAutomationProject\master.xml"
+21:43:36.090 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\SauceDemoAutomationProject\master.xml
+
+21:43:44.572 [main] INFO  testCases.TC001_VerifyLoginWithLockedOutUser - *** Starting verifyLoginWithLockedOutUser_TC001 ***
+21:43:48.539 [main] INFO  testCases.TC002_VerifyPurchaseJourneyWithStandardUser - *** Starting verifyPurchaseJourneyWithStandardUser_TC002 ***
+21:43:55.603 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Starting verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+21:44:22.965 [main] INFO  testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser - *** Ending verifyPurchaseJourneyWithPerformanceGlitchUser_TC003 ***
+21:45:27.841 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\AppData\Local\Temp\testng-eclipse--345766032\testng-customsuite.xml"
+21:45:28.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:28.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+21:45:28.158 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:28.158 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:28.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:28.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:28.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:28.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:28.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+21:45:28.182 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+21:45:28.185 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:28.194 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+21:45:28.196 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:28.196 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:28.201 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:28.201 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:28.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:28.205 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:28.205 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:28.205 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:28.209 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

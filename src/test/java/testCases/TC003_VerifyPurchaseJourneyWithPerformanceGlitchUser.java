@@ -62,6 +62,7 @@ public class TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser extends BaseCl
 			List<String> productNamesFromCheckoutPage = coutp.getCheckoutProductNames().stream().limit(productCount)
 					.sorted().collect(Collectors.toList());
 
+		
 			// Verify product names between ProductsPage and CheckoutPage
 			Assert.assertEquals(productNamesFromCheckoutPage, productNamesFromProductsPage,
 					"Mismatch between product names on ProductsPage and CheckoutPage.");
@@ -70,20 +71,20 @@ public class TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser extends BaseCl
 			double sumOfItemPrices = coutp.calculateTotalItemPrice();
 			double displayedItemTotalPrice = coutp.getDisplayedItemTotalPrice();
 
-			
-			Assert.assertEquals(sumOfItemPrices, displayedItemTotalPrice,
-					"Mismatch: Sum of item prices should be: "+sumOfItemPrices+" but found "+displayedItemTotalPrice);
+
+			Assert.assertEquals(displayedItemTotalPrice, sumOfItemPrices,
+					"Price mismatch:");
 
 			
 			double taxValue= coutp.getDisplayedTax();	//Get Tax value from Checkout Page
-
-			double expectedTotalPrice = sumOfItemPrices + taxValue;	// Calculate Sum of Total Item Price with Tax value
-			double displayedTotalPrice= coutp.getDisplayedTotalPriceAfterIncludingTax();	// Get displayed total price (include Tax)
+			
+			double expectedTotalPriceIncTax = sumOfItemPrices + taxValue;	// Calculate Sum of Total Item Price with Tax value
+			double displayedTotalPriceIncTax= coutp.getDisplayedTotalPriceAfterIncludingTax();	// Get displayed total price (include Tax)
 			
 
 			//Verify displayed total price with expected total Price (include tax)
-			Assert.assertEquals(displayedTotalPrice, expectedTotalPrice,
-					"Mismatch: Expected Total Price was "+expectedTotalPrice+ " but found "+ displayedTotalPrice);
+			Assert.assertEquals(displayedTotalPriceIncTax, expectedTotalPriceIncTax,
+					"Price mismatch:");
 			
 			
 			coutp.clickFinish();	// Complete the purchase by clicking the 'Finish' button

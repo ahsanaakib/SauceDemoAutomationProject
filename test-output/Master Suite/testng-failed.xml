@@ -15,13 +15,13 @@
           <include name="setup"/>
         </methods>
       </class> <!-- testCases.TC003_VerifyPurchaseJourneyWithPerformanceGlitchUser -->
-      <class name="testCases.TC002_VerifyPurchaseJourneyWithStandardUser">
+      <class name="testCases.TC001_VerifyLoginWithLockedOutUser">
         <methods>
+          <include name="verifyLoginWithLockedOutUser_TC001"/>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="verifyPurchaseJourneyWithStandardUser_TC002"/>
         </methods>
-      </class> <!-- testCases.TC002_VerifyPurchaseJourneyWithStandardUser -->
+      </class> <!-- testCases.TC001_VerifyLoginWithLockedOutUser -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->
